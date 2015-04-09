@@ -15,3 +15,18 @@ def detail_view(request, news_id):
     return render(request, 'news/detail.html', {
         'news': news
     })
+
+
+def add_view(request):
+    added_alert = False
+
+    if request.method == 'POST':
+        news_title = request.POST['title']
+        news_message = request.POST['message']
+        news = e507.apps.news.models.News(title=news_title, message=news_message)
+        news.save()
+        added_alert = True
+
+    return render(request, 'news/add.html', {
+        'added_alert' : added_alert,
+    })

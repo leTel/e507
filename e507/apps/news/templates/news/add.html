@@ -1,0 +1,11 @@
+
+{% if added_alert %}<p><strong>News has been added !</strong></p>{% endif %}
+
+<form action="{% url 'news:add_view_url' %}" method="post">
+    {% csrf_token %}
+    <label for="title">Title</label><br />
+    <input type="text" name="title" id="title"/>
+    <label for="message">Message</label><br />
+    <input type="text" name="message" id="message"/>
+    <input type="submit" value="Add news" />
+</form>
