@@ -1,1 +1,7 @@
-{{ news }}
+{% extends 'core/base.html' %}
+
+{% block page_title %}{{ news.title }}{% endblock %}
+
+{% block content %}
+    {{ news.message }}
+{% endblock %}
