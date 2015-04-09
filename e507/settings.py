@@ -55,12 +55,12 @@ MIDDLEWARE_CLASSES = (
     'django.middleware.security.SecurityMiddleware',
 )
 
-ROOT_URLCONF = 'e507.urls'
+ROOT_URLCONF = 'e507.apps.core.urls'
 
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [],
+        'DIRS': [os.path.join(BASE_DIR, 'e507/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
