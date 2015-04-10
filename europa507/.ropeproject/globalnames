@@ -1,0 +1,11 @@
+€}q(U'news.migrations.0002_auto_20150409_0816]qU	MigrationqaU	e507.apps]U	news.urls]qUurlpatternsqaU
+news.views]q(U	home_viewqUdetail_viewqeUe507]Umanage]Ue507.apps.core.tests]Udatetime]q	(U	timedeltaq
+UMAXYEARqUdateqUdatetime_CAPIqUtzinfoqUtimeqUMINYEARqUdatetimeqeUe507.apps.core.views]Ue507.apps.news.models]qUNewsqaUshutil]q(UcopyfileqUignore_patternsqUcopytreeqUget_archive_formatsqUcopyfileobjqUregister_archive_formatqUcopymodeqUmake_archiveqUmoveqUunregister_archive_formatqUrmtreeqUErrorq Ucopyq!U	ExecErrorq"Ucopy2q#USpecialFileErrorq$Ucopystatq%UWindowsErrorq&eU
+core.tests]Ue507.apps.news.tests]U&e507.apps.news.migrations.0001_initial]q'U	Migrationq(aU	e507.urls]q)haUe507.apps.news.views]q*(Uadd_viewq+Udetail_viewq,U	home_viewq-eUnews.migrations.0001_initial]q.haUe507.apps.core.models]U
+news.admin]Ucore.migrations]Ue507.apps.news.urls]q/Uurlpatternsq0aU	core.urls]q1haUe507.apps.news.admin]Unews.models]q2UNewsq3aUe507.apps.core.urls]q4h0aU
+news.tests]Unews]Ucore]Ue507.apps.core]Ue507.apps.core.migrations]Unews.migrations]U	e507.wsgi]q5Uapplicationq6aUe507.apps.core.admin]Ue507.apps.news.migrations]Uos]q7(Upopen4q8Uexecleq9Upopen3q:USEEK_CURq;Uspawnlpq<Uexeclpq=Uenvironq>Uspawnvpq?Uspawnlq@UexecvpqAUmakedirsqBUlinesepqCUP_WAITqDUspawnvqEUspawnveqFUexecvpeqGUunsetenvqHUSEEK_SETqIUgetenvqJUpopen2qKUwalkqLUspawnleqMUexeclqNUnameqOUSEEK_ENDqPUspawnlpeqQU	P_NOWAITOqRUP_NOWAITqSU
+removedirsqTUrenamesqUUspawnvpeqVUexeclpeqWeU1e507.apps.news.migrations.0002_auto_20150409_0816]qXh(aUe507.settings]qY(U	DATABASESqZUMIDDLEWARE_CLASSESq[UROOT_URLCONFq\ULANGUAGE_CODEq]UUSE_I18Nq^U
+SECRET_KEYq_UBASE_DIRq`U	TEMPLATESqaUE507_DBqbUSTATIC_ROOTqcU	TIME_ZONEqdUWSGI_APPLICATIONqeUALLOWED_HOSTSqfU
+STATIC_URLqgU	LANGUAGESqhUUSE_L10NqiUDEBUGqjUUSE_TZqkUINSTALLED_APPSqlUSTATICFILES_DIRSqmUSTATICFILES_STORAGEqneUe507.apps.news]Ucore.models]U
+core.admin]U
+core.views]u.
